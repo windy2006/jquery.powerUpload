@@ -4,7 +4,7 @@
 
 调用条件：
 --------
-下载并复制 jquery.parallax.js 到网站目录，同时也需要事先准备好 jQuery 和 bootstrap 框架。
+下载并复制 jquery.powerUpload.js 到网站目录，同时也需要事先准备好 jQuery 和 bootstrap 框架。
 
 ```html
 <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css" rel="stylesheet">
